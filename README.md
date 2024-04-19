@@ -30,3 +30,7 @@ In the body of the request, include the following JSON object:
     ]
 }
 ```
+
+## Resources to learn more
+- blog posts
+- youtube videos
